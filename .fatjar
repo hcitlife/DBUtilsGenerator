@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Dec 10 11:21:31 CST 2017
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=E\:\\\u684C\u9762\\DBUtilsGenerator.jar
+manifest.mergeall=true
+manifest.mainclass=com.hc.utils.MainInterface
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="genResources"/>
+	<classpathentry kind="lib" path="lib/commons-dbutils-1.7.jar"/>
+	<classpathentry kind="lib" path="lib/freemarker-2.3.25-incubating.jar"/>
+	<classpathentry kind="lib" path="lib/druid-1.1.9.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
